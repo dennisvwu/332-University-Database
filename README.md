@@ -3,8 +3,9 @@ CPSC 332 - File Structures and Database Systems
 University Database
 
 Description: 
+Final group project.
 Simple website that lets the user query basic information from a mock-up University database. 
-The information is then displayed via tables to the user. Final group project.
+The information is then displayed via tables to the user.
 
 Tools: PHP, MySQL, HTML
 
