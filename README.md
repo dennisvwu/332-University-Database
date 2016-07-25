@@ -4,8 +4,7 @@ University Database
 
 Description: 
 Final group project.
-Simple website that lets the user query basic information from a mock-up University database. 
-The information is then displayed via tables to the user.
+Designed a MySQL database and PHP web application for a mock-up university. The database kept information records of professors and students, along with enrollment records. Created a web interface for the professor and student to query the information.
 
 Tools: PHP, MySQL, HTML
 
